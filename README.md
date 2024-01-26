@@ -8,6 +8,8 @@
 
 <p align="center">
   <img src="./Screenshot/1.png" width="95%" />
+  <img src="./Screenshot/2.png" width="95%" />
+  <img src="./Screenshot/3.png" width="95%" />
 </p>
 
 ## Features 🚀
