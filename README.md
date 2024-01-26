@@ -1,6 +1,6 @@
 <div align="center">
     <img src="./Screenshot/youtube.png" width="128" height="128" style="display: block; margin: 0 auto"/>
-    <h1>4K Youtube Video Download</h1>
+    <h1>4K Youtube Video Downloader</h1>
     <p>4K Youtube Downloader is your go-to solution for enjoying YouTube videos offline in the highest clarity possible.</p>
 </div>
 
